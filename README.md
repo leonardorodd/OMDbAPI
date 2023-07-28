@@ -1,11 +1,11 @@
 # Desafio OMDb
-Aplicação web para pesquisa de filmes utilizando a api do OMDb[https://www.omdbapi.com/].
+Aplicação web para pesquisa de filmes utilizando a api do [OMDb](https://www.omdbapi.com/).
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 - [React](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Vite] https://vitejs.dev/guide/
+- [Vite](https://vitejs.dev/guide/)
 
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
