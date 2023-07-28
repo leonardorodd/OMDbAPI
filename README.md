@@ -1,5 +1,5 @@
 # Desafio OMDb
-Aplicação web para pesquisa de filmes utilizando a api do [OMDb](https://www.omdbapi.com/).
+Aplicação web feita em React para pesquisa de filmes utilizando a api do [OMDb](https://www.omdbapi.com/).
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
