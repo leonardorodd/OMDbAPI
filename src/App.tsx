@@ -7,7 +7,7 @@ import GlobalStyle from './styles/global';
 const src: React.FC = () => {
   return (
     <BrowserRouter>
-      <ToastContainer style={{ backgroundColor: "red" }} theme="dark" autoClose={3000}/>
+      <ToastContainer theme="dark" autoClose={3000}/>
       <Routes/>
       <GlobalStyle />
     </BrowserRouter>
