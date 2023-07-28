@@ -458,4 +458,4 @@ Error generating stack: `+lt.message+`
   .Toastify__toast--error {
     background: var(--base-black) !important;
   }
-`,src=()=>jsxRuntimeExports.jsxs(BrowserRouter,{children:[jsxRuntimeExports.jsx(k$2,{theme:"dark",autoClose:3e3}),jsxRuntimeExports.jsx(Router,{}),jsxRuntimeExports.jsx(GlobalStyle,{})]});client.createRoot(document.getElementById("root")).render(jsxRuntimeExports.jsx(React.StrictMode,{children:jsxRuntimeExports.jsx(src,{})}));
+`,src=()=>jsxRuntimeExports.jsxs(BrowserRouter,{basename:"/OMDbAPI",children:[jsxRuntimeExports.jsx(k$2,{theme:"dark",autoClose:3e3}),jsxRuntimeExports.jsx(Router,{}),jsxRuntimeExports.jsx(GlobalStyle,{})]});client.createRoot(document.getElementById("root")).render(jsxRuntimeExports.jsx(React.StrictMode,{children:jsxRuntimeExports.jsx(src,{})}));
