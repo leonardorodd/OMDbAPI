@@ -14,11 +14,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ### Como rodar o projeto?
 
-#### Instala as dependências
+#### 1 - Instala as dependências
 ```shell
 yarn 
 ```
-#### Executa o projeto
+#### 2 - Executa o projeto
 ```shell
 yarn run dev
 ```
