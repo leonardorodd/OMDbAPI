@@ -1,5 +1,5 @@
 # Desafio OMDb
-Aplicação web para pesquisa de filmes utilizando a api do [OMDb](https://www.omdbapi.com/).
+Aplicação web feita em React para pesquisa de filmes utilizando a api do [OMDb](https://www.omdbapi.com/).
 
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -14,11 +14,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ### Como rodar o projeto?
 
-#### Instala as dependências
+#### 1 - Instala as dependências
 ```shell
 yarn 
 ```
-#### Executa o projeto
+#### 2 - Executa o projeto
 ```shell
 yarn run dev
 ```
