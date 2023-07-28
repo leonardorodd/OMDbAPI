@@ -6,7 +6,7 @@ import GlobalStyle from './styles/global';
 
 const src: React.FC = () => {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename='/OMDbAPI'>
       <ToastContainer theme="dark" autoClose={3000}/>
       <Routes/>
       <GlobalStyle />
