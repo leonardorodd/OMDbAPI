@@ -9,7 +9,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Pré-requisitos
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-- [nodeJS](https://nodejs.org/en/) v16.15.1
+- [NodeJS](https://nodejs.org/en/) v16.15.1
 - [yarn](https://classic.yarnpkg.com/en/docs/getting-started) v1.22.19
 
 ### Como rodar o projeto?
