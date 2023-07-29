@@ -71,7 +71,6 @@ const Home: React.FC = () => {
         setTimeout(async () => {
           try {
             const { data } = await api.get('', { params: { s: searchTerm }});
-            console.log('executou')
             renderContent(data);
           } catch (error) {
             throw new Error('Erro ao obter informações');
